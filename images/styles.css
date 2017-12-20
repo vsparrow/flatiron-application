@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Kavoon', cursive;
+  font-size: 600%
+}
+li {
+  font-size:  300%;
+}
+p {
+  font-size: 125%;
+}
+
+#quotee {
+  text-align: right;
+}
